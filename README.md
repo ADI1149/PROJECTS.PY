@@ -1,5 +1,5 @@
 # WELCOME!
-# Hi, I'm Aditya Sharma 👋
+# Hi, I'm Aditya Sharma
 
 I'm a Class 12 PCM student from New Delhi, India.
 
